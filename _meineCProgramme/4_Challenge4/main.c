@@ -4,10 +4,10 @@ int main()
 {
     //Challenge 4.1: Herausfinden was Steuerzeichen bewirken
 
-    printf("Hallo\nWelt\n");    //\n -> Neue Zeile
-    printf("Hallo\bWelt\n");    //\b -> entferne ein Zeichen links
+    printf("Hallo\nWelt\n");    //\n -> Neue Zeile (Zeilenvorschub)
+    printf("Hallo\bWelt\n");    //\b -> entferne ein Zeichen links (Backspace)
     printf("Hallo\tWelt\n");    //\t -> Tabulator
-    printf("Hallo\vWelt\n");    //\v -> Zeilenumbruch und fortsetzen angleicher Stelle
+    printf("Hallo\vWelt\n");    //\v -> Zeilenumbruch und fortsetzen angleicher Stelle (vertikaler Tabulator)
     printf("Hallo\aWelt\n");    //\a -> Beep Ton
 
     //Challenge 4.2: Herausfinden was Formate bei Variablen ausgabe bedeuten
