@@ -22,6 +22,5 @@ int main()
 
 int aufab(int zahl)
 {
-    int zwe = (zahl < 5) ? (zahl+=1) : (zahl-=1);
-    return zwe;
+    return (zahl < 5) ? ++zahl : --zahl;
 }
