@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspaces/C-esst-3213248/_meineCProgramme/9_Challenge9",
-      "program": "/workspaces/C-esst-3213248/_meineCProgramme/9_Challenge9/build/Debug/outDebug",
+      "cwd": "/workspaces/C-esst-3213248/_meineCProgramme/10_Challenge10",
+      "program": "/workspaces/C-esst-3213248/_meineCProgramme/10_Challenge10/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
